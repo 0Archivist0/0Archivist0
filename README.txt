@@ -1,5 +1,5 @@
-11-11-20
-A lot has  happened in this last year... so this repository and the one other where be a place I put some of the things I tend to have to get over and over...
-But also some things I learn along the way
+Kristopher Tomplait
 
-----Kris
+Currently a student at Ivy Tech
+Im going for my assosiates of science in cybersecurity and information assurence...
+I'm a linux user, but not the best... I am leanring though...slowly, but surely....
