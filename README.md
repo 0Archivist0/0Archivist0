@@ -1,6 +1,11 @@
 ## (Draft to be continued)
 # Kristopher Tomplait
 ## GitHub.com/0Archivist0
+
+### 6/17/23
+I'm waaaay behind with little time to loose, the repo that will be created out of this will be posted here, because some scripts are gonna get made, and I got the power of AI to aid me, 
+(hopefully-lol)
+
 ### 5-21-23
 As of now I'm not sure where life is going for me, 
 I'm a college student at ivy-tech pursuing a Associates of science in cybersecurity and information assurance...
