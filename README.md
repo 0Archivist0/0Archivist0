@@ -2,6 +2,11 @@
 # Kristopher Tomplait
 ## GitHub.com/0Archivist0
 
+###6/23/23
+Still behind but the file "operation catchup' withing the 'My scripts repo' is has the scipts from "having to catch up" and as I'm still stuck doing so, that file will continue to grow...
+who knows what else will wind up in it.. 
+
+
 ### 6/17/23
 I'm waaaay behind with little time to loose, the repo that will be created out of this will be posted here, because some scripts are gonna get made, and I got the power of AI to aid me, 
 (hopefully-lol)
