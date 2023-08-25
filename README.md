@@ -1,5 +1,5 @@
 # My name is Kris Tomplait
-##, and I am an owner of a small business called "Archivists Endeavors." 
+## and I am an owner of a small business called "Archivists Endeavors." 
 
 (You can find more information about the business at https://github.com/Archivists-Endeavors.)
 
