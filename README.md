@@ -1,7 +1,7 @@
 # My name is Kris Tomplait
-## and I am an owner of a small business called "Archivists Endeavors." 
+### I am an owner of a small business called "Archivists Endeavors." 
 
-(You can find more information about the business at https://github.com/Archivists-Endeavors.)
+#### (You can find more information about the business at https://github.com/Archivists-Endeavors.)
 
 ## Currently
 I am a student at Ivy Tech Community College, pursuing an Associate of Science degree in Cyber-Security & Information Assurance. I am deeply fascinated by technology and have a strong passion for learning. While my academic focus is on cyber-security, I am also enthusiastic about computer science as a whole.
