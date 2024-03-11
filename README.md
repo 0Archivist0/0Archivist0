@@ -5,8 +5,11 @@
 
 
 ## Currently
-I was student at Ivy Tech Community College, pursuing an Associate of Science degree in Cyber-Security & Information Assurance. 
-But due to some life events, college has been put to a halt for the time being, things have happened, causing a domino effect... thus currently stoping me from attending school, however like mark tain said it... " Never let schooling get in the way of your education... " with that being said, as I was more or less self-educated to begin with, haveing not been to school sinc I was 15 only to start college in my thirties, I have learned much.. And will continu to do so, with or without institutions of learning. 
+I am hitting a rough patch in life, but that doesn't stop me :)
+As of now I am doing freelance I.T. work, while also trying to sow together the tattered peices of my life.. 
+While doing that I have been doing some basic R&D experimenting more with AI, Diffrent kinds of software and hardware.. utilizing what I have on hand. I have this unique ability to throw things together and make them work.. making older computers and machines live again in this modern day world by finding unorthodox ways to do so at times. 
+I Plan on doing some more projects, getting older ones done, finished or just archived to mmake room for the new ones.
+
 
 ## Remember
 ### A tool is only as good as its user, and it is the responsibility of the user to determine its purpose and impact.
